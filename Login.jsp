@@ -4,7 +4,7 @@
   <head>  
     <title>登录注册页面</title>  
   </head>  
-  <body >  
+  <body background=" ">  
          <form action="DengluServlet"  method="post"  style="padding-top:-700px;">  
         用户名：<input type="text" name="name"value=""><br><br>  
         密码：  <input type="password" name="pwd"value=""><br><br>  
