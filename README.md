@@ -1,4 +1,6 @@
-# MyTest-1  【User-s-information-processing】
+# MyTest-1  
+2017-2018第二学期 JavaWeb期末考试项目 
+项目名称【User-s-information-processing】
 通过使用Servlet+jsp制作本项目,项目中使用MyEclipse和Mysql数据库进行搭建完成。
 
 # 主要功能
